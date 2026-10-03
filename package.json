@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-avive-estetica",
+  "version": "1.0.0",
+  "description": "Avive Estética — Website clone para portfólio profissional",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve -l 3000 .",
+    "start": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "portfolio",
+    "avive-estetica",
+    "estetica",
+    "beleza",
+    "landing-page",
+    "spa",
+    "araruama"
+  ],
+  "author": "",
+  "license": "ISC"
+}
